@@ -1,0 +1,46 @@
+.cardProfile{
+    width: 250px;
+    height: 300px;
+    border-radius: 20px;
+    border: 1px solid rgb(158, 156, 156);
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.imgProfile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+.imgProfile1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+.txtName{
+    color: #083270;
+    font: bold;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 10px;
+}
+.divButtons{
+    display: flex;
+    justify-content: space-around;
+}
+.btnUpdate{
+    width: 90px;
+    height: 30px;
+    background-color: #083270;
+    color: #fff;
+    border-radius: 10px;
+    border: 0px;
+}
+.center{
+    
+}
